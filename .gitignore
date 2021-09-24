@@ -1,0 +1,6 @@
+*.tar
+*.tar.gz
+*.log
+*.tmp
+*.csv
+/.idea/*
