@@ -1,4 +1,1 @@
-def read():
-    print("Reader")
-
-read()
+import xlrd
